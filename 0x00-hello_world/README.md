@@ -1,1 +1,1 @@
-no printf just puts
+no puts just printf
