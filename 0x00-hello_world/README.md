@@ -1,1 +1,1 @@
-no puts just printf
+no territory
