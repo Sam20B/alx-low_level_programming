@@ -1,1 +1,1 @@
-c is fun no kidding
+no printf just puts
