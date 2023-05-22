@@ -1,1 +1,1 @@
-alphabet game
+prints alphabet
